@@ -1,1 +1,3 @@
 *.txt
+composer.lock
+test.lock
